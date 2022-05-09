@@ -36,7 +36,8 @@ class World{
  * Nu kan dus niet zomaar iedereen de wereld aanpassen. Maar, zoals bovenaan in dit bestand beschreven, 
  * is niemand geinteresseerd in iets, behalve de gevoelstemperatuur. chillybot heeft een implementatie 
  * die er vanuit gaat dat we met Fahrenheit werken. Als we nu in onze simulatie functie erachter komen
- * dat we met celcius willen werken, dan moet iedereen die deze code gebruikt zijn/haar functie aanpassen
+ * dat we met celcius willen werken, dan moet iedereen die deze code gebruikt zijn/haar functie 
+ * die gebruik maakt van de temperatuur aanpassen
  * 
  */
 class World2{
